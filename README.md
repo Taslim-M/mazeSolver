@@ -1,5 +1,6 @@
 # mazeSolver
 
+Reading and solving a maze in C++.
 Please find the mazes in Resource files.
 
 Solve a maze using either Breadth First Search (BFS) or Depth First Search (DFS).

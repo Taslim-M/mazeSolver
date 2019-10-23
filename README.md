@@ -14,3 +14,7 @@ User Menu options:
 6.Find Path using BFS
 7.Display Path 
 8.Exit
+
+
+"cls" is used for refreshing the display and potentially creating an animation.
+Please note that I did not complete or implement the animation part, so comment the related codes to avoid random flickering.
